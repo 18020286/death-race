@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1557239345 source:c:\users\asus\desktop\developing_game\game.cpp
+	"game.h"
+
+1557026164 c:\users\asus\desktop\developing_game\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1557239656 source:c:\users\asus\desktop\developing_game\main.cpp
+	<iostream>
+	<SDL.h>
+	"game.h"
+	"support.h"
+	<vector>
+	<ctime>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1557238430 c:\users\asus\desktop\developing_game\support.h
+	<iostream>
+	<algorithm>
+	"game.h"
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<fstream>
+
+1557239345 source:c:\users\asus\desktop\developing_game\support.cpp
+	"support.h"
+
+1557239345 source:c:\users\asus\desktop\game_duaxe\game.cpp
+	"game.h"
+
+1557026164 c:\users\asus\desktop\game_duaxe\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1557239656 source:c:\users\asus\desktop\game_duaxe\main.cpp
+	<iostream>
+	<SDL.h>
+	"game.h"
+	"support.h"
+	<vector>
+	<ctime>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1557238430 c:\users\asus\desktop\game_duaxe\support.h
+	<iostream>
+	<algorithm>
+	"game.h"
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<fstream>
+
+1557239345 source:c:\users\asus\desktop\game_duaxe\support.cpp
+	"support.h"
+
+1557239345 source:e:\game_duaxe\game.cpp
+	"game.h"
+
+1557026164 e:\game_duaxe\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1557239656 source:e:\game_duaxe\main.cpp
+	<iostream>
+	<SDL.h>
+	"game.h"
+	"support.h"
+	<vector>
+	<ctime>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1557238430 e:\game_duaxe\support.h
+	<iostream>
+	<algorithm>
+	"game.h"
+	<SDL.h>
+	<SDL_mixer.h>
+	<vector>
+	<fstream>
+
+1557239345 source:e:\game_duaxe\support.cpp
+	"support.h"
+
